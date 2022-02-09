@@ -11,7 +11,7 @@ module.exports = {
         nav: [
             { text: 'Home', link: '/' },
             { text: 'Guide', link: '/guide/' },
-            { text: 'Github', link: 'https://github.com/boussadjra/vue-cheat-sheet' },
+            { text: 'Github', link: 'https://github.com/uvacoder/vue-cheat-sheet' },
           
         ],
         sidebar:  'auto'/*[
